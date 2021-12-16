@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EishwarPHP
 - 👀 I’m interested in PHP
-- 🌱 I’m currently learning Angular, ReactJS, Laravel, Codeigniter, YII, C#, Dot Net
+- 🌱 I’m a Fullstack PHP,Laravel,Wordpress,Codeignitor Developer
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me Eishwar9@gmail.com
 
